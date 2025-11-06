@@ -1,11 +1,6 @@
-# Models available:
-
-ollama/deepseek-r1
-ollama/qwen3-vl
-ollama/llama3.1
-
-
 # Introduction to AI Evaluation with Inspect
+
+**Download the data by running "download.py"**
 
 Welcome to this hands-on workshop on AI evaluation using Inspect! In this workshop, you'll learn how to systematically assess the capabilities and limitations of large language models across a diverse range of tasks.
 
